@@ -1,0 +1,6 @@
+.{
+    .name = "zig-lsp-sample",
+    .version = "0.11.0",
+    .dependencies = .{},
+    .paths = .{""},
+}
